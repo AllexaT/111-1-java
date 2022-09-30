@@ -1,0 +1,1 @@
+javac -encoding UTF-8 xxx.java	//使用UTF-8編碼進行編譯
