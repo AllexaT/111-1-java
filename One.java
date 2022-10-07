@@ -28,6 +28,5 @@ public class One{
 				break;
 			
 		}
-        System.out.printf("\nv2.2\n");
     }
 }
