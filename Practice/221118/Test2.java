@@ -1,6 +1,6 @@
 //印星星
 import java.util.Scanner;
-public class Test1{
+public class Test2{
     public static void main(String[] args){
         //col為當前第幾行,setting則是設定要多大的菱形,runtimes是總運行次數,star是當前排星星顯示數
         int col=0,setting=0,star=0;
